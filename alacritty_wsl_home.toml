@@ -1,0 +1,22 @@
+[font.bold]
+family = "source han code jp"
+style = "Bold"
+
+[font.bold_italic]
+family = "source han code jp"
+style = "Bold Itali"
+
+[font.italic]
+family = "source han code jp"
+style = "Italic"
+
+[font.normal]
+family = "source han code jp"
+
+[shell]
+program = "/Windows/System32/wsl.exe"
+args = ["--cd ~"]
+
+[cursor]
+style = { shape = "Block", blinking = "On" }
+blink_timeout = 0
